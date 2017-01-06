@@ -1,2 +1,2 @@
 # 0chan-swfloop
-Now loops from index page of 0chan.hk can do each!
+Теперь свои лупы уровня главной страницы Нульчана(0chan.hk)сможет сделать каждый!
